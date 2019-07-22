@@ -1,0 +1,9 @@
+#ifndef SOUND_STRUCTS
+#define SOUND_STRUCTS
+
+#define NPCSOUND_WAIT_TIME 5.0f
+#define NUM_BLOCKED_SOUNDS 2
+#define NUM_CONVERSATION_SOUNDS 1
+
+
+#endif

@@ -1,0 +1,17 @@
+id6
+1
+CLERK: I have a wide array of hardware for purchase
+id8
+3
+COP: Hey, you look new around here. What are you a tourist?%YOU: Ummm...something like that.%COP: See this statue here, them scientists say this be an archaic Homo Sapien.  If thems think my ancestores looks like that, they're crazy.  You can look, but don't touch!
+COP: Hey, you look new around here. What are you a tourist?%YOU: Ummm...something like that.%COP: See this statue here, them scientists say this be an archaic Homo Sapien.  If thems think my ancestores looks like that, they're crazy.  You can look, but don't touch!% YOU: That food item you're holding in your hand sure looks tasty.%COP: Yeah, I'm waiting for my shift to end so I can go eat it.%YOU: Uhhhh...yeah...yeah I just talked to one of your buddies, he said he's gonna spell you. He's on his way.%COP: Okay good enough for me, I'm gonna join the boys for lunch.  But don't do anything funny until Franky gets here.
+COP: This donut sure is tasty. Franky is watching the statue right?%YOU: Uhhh...yeah he's doing a fine job.
+id7
+2
+YOU: Well at least these humans have an interest in sculpture
+YOU: I can't do anything with the guard watching me.
+id9
+3
+CRAZY LADY: David!!! Thank god, I've been looking for you this whole time, where have you been?%YOU: Execuse me, you must have me mistaken for someone else.%CRAZY LADY: David, don't you remember me, Jane, your own wife.%YOU: Hmmm. This is interesting. Doesn't your government take care of mentally disturbed citizens? There must be some facilities, institutions, something.%JANE: They did something to you, didn't they? Don't you remember, we have a house here, we live just down the block.%YOU: (Carefully observing and taking down notes)...%JANE: I'm not giving up on you. I'm gonna find someone to help you. I'll be at the house if you want to talk.
+YOU: Ahhh, Jane is it, can you tell me more about your healthcare system. How well does it take care of sick people?%JANE: Don't worry honey, I've called the best doctors, they're on their way.
+JANE: David, the doctors are on the way...wait a minute, there's something different about you.%YOU: Jane I remember everything, I'm a human being.%JANE: Oh, I though it was something important, of course your human.%YOU No I mean, I remember you and us and the house...%JANE: Thank god, your back!%YOU: But I still have these memories in my head from a life that's not mine. We've got to get to the ship, they told me to bring you.%JANE: I'm scared%YOU: I know, but it's the only way we can get our life back.
