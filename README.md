@@ -13,6 +13,9 @@ You meet a crazy lady that claims to be your wife; how insane these humans are! 
 
 You must find out who that woman was, and if she was telling the truth.  You again enlist the help of a storeowner, a rare human among his kind, only to find out the horrific and undeniable truth…that you yourself are human!  All that your memories and senses tell you are false.  The aliens, the real aliens, contact you knowing of your discovery.  They offer a deal: your life back in exchange for the data you’ve collected of the humans and from the first inspector.  You meet them at the ship, which then flies off into the night sky, leaving your recent memories wiped.  You look at your wife and fellow humans, pick up some weapons, and head off to the nearest bank.
 
+# Gameplay footage
+https://vimeo.com/349147009
+
 # Controls
 ##### Player controls
     Player moves forward: W key
